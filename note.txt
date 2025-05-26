@@ -1,0 +1,47 @@
+features_t10=[
+
+    'Wear_will_increase_1',    
+    'Wear_roll_min_20',
+
+    'Wear_lead_1',
+    'Wear_lag_5',
+
+    'TWF_x_wear',
+    'Machine failure',
+
+    'Wear_ema_5',
+    'Wear_critical',
+
+    'Wear_roll_mean_5',
+    'Wear_above_p25',
+]
+
+features_t10 = [
+    'lv_code',
+    'Wear_above_p50',
+    'Wear_log',
+    'Wear_x_Torque',
+    'Wear_torque_interaction',
+    'Wear_per_Power',
+    'Wear_per_speed_squared',
+    'Overall_risk',
+    'Wear_squared',
+    'Wear_risk',
+    'Wear_mechanical_stress',
+    'Operational_intensity',
+    'Wear_composite_1',
+    'Wear_speed_stress',
+    'Wear_x_RPM',
+    'Wear_x_TempDiff',
+    'Wear_per_RPM',
+    'Wear_per_TempDiff',
+    'Wear_sqrt',
+    'Wear_outlier_score',
+    'Wear_per_avg_temp',
+    'Wear_temp_stress',
+    'Wear_norm',
+    'Wear_dist_from_p90',
+    'Wear_dist_from_p95',
+    'Wear_rate_per_hour',
+    'Tool wear [min]',
+]
